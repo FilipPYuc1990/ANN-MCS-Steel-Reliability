@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the accompanying manuscript listed below."
+type: software
+license: CC-BY-NC-4.0
+title: "ANN-MCS-Steel-Reliability"
+authors:
+  - family-names: "Ljubinković"
+    given-names: "Filip"
+    affiliation: "University of Coimbra, ISISE, ARISE"
+    email: "filj@uc.pt"
+abstract: "Configurable Python implementation of an ANN-based Monte Carlo framework for stochastic characterisation and reliability assessment of steel resistance models."
+preferred-citation:
+  type: unpublished
+  title: "ANN-based Monte Carlo simulation framework for reliability assessment of steel structures"
+  authors:
+    - family-names: "Ljubinković"
+      given-names: "Filip"
+    - family-names: "de Carvalho"
+      given-names: "Adriano Silva"
+    - family-names: "Conde"
+      given-names: "Jorge"
+    - family-names: "Freire"
+      given-names: "Fernando"
+    - family-names: "Martins"
+      given-names: "João Pedro"
+    - family-names: "Simões da Silva"
+      given-names: "Luís"
+  year: 2026
+  notes: "Manuscript submitted to Structures; under revision. Publication DOI not yet assigned."
